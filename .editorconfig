@@ -1,8 +1,8 @@
 # This file is for unifying the coding style for different editors and IDEs
 # editorconfig.org
 #
-# This is the multi-language EBANX Code Style
-# If you use this on your project you will automatically follow every approved Code Style from this repository
+# This is the multi-language EBANX Code Style Guide
+# If you use this on your project you will automatically follow every approved Code Style Guide from this repository
 
 root = true
 charset = utf-8
