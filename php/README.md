@@ -4,7 +4,7 @@
 
 We are following the [PHP PSR-2 Coding Standards](http://www.php-fig.org/psr/psr-2/):
 
-1. Code MUST follow a "coding style guide" PSR [[PSR-1]].
+1. Code MUST follow a "coding style guide" PSR [[PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)].
 2. Code MUST use 4 spaces for indenting, not tabs.
 3. There MUST NOT be a hard limit on line length; the soft limit MUST be 120 characters; lines SHOULD be 80 characters or less.
 4. There MUST be one blank line after the `namespace` declaration, and there MUST be one blank line after the block of `use` declarations.
